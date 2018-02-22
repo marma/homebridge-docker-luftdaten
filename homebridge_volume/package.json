@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "homebridge-airrohr": "^1.1.5"
+  }
+}

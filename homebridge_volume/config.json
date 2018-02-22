@@ -1,0 +1,24 @@
+{
+    "bridge": {
+        "name": "Homebridge",
+        "username": "CC:22:3D:E3:CE:30",
+        "port": 51826,
+        "pin": "031-45-154"
+    },
+    
+    "description": "Homebridge",
+
+    "accessories": [
+        {
+            "name": "AirRohr",
+            "accessory": "airrohr",
+            "json_data": "http://192.168.0.116/data.json",
+            "sensor_id": "1184716",
+            "update_interval_seconds": 60
+        }
+    ],
+
+    "platforms": [
+    ]
+}
+
