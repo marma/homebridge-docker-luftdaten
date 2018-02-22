@@ -9,7 +9,7 @@ git clone https://github.com/marma/homebridge-docker-luftdaten
 cd homebridge-docker-luftdaten
 ```
 
-Edit homebridge_volume/config.json to include the IP-address or DNS name of your sensor and sensor ID. Start the container, if all goes well you should get a QR-code to scan with your iPhone.
+Edit homebridge_volume/config.json to include the IP-address (or name I guess) of your sensor and sensor ID. Start the container, if all goes well you should get a QR-code to scan with your iPhone.
 
 ```
 docker-compose up
