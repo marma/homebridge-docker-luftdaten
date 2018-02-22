@@ -15,7 +15,7 @@ Edit homebridge_volume/config.json to include the IP-address (or name I guess) o
 docker-compose up
 ```
 
-Exit by pressing Ctrl-Cand start container again in the background.
+Exit by pressing Ctrl-C and restart container in the background.
 
 ```
 docker-compose up -d
