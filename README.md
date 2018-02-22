@@ -21,3 +21,5 @@ Exit by pressing Ctrl-Cand start container again in the background.
 docker-compose up -d
 ```
 
+Done!
+
